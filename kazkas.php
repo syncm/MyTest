@@ -1,6 +1,9 @@
 <?php 
 
 
-hello 
+
+echo kkkk;
+
+
 
 ?>
